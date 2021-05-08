@@ -13,7 +13,7 @@
 
 
 ## Features
-* Here you can buy all types of home furniture buy online.
+* Here you can buy all types of home furniture online.
 * You can see section wise furnitures.
 * Details about every furniture item are are available in the app.
 
